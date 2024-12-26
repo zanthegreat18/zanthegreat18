@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on [University Muhammadiyah Yogyakarta](https://www.umy.ac.id/)
 
-- 🌱 I’m currently learning **Data Analysis, Web Programmer and 3d Artist**
+- 🌱 I’m currently learning **Data Analysis, Web Programmer and Mobile Programmer**
 
 - 💬 Ask me about **React, HTML, Kotlin, and Python**
 
